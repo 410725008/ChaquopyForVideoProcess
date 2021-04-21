@@ -1,0 +1,3 @@
+include ':mobile-ffmpeg'
+include ':app'
+rootProject.name = "eMobileStrikeZone"
